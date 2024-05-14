@@ -4,7 +4,7 @@ import pandas as pd
 from fuzzywuzzy import fuzz
 import time
 
-API_KEY = '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'
+API_KEY = 'API_KEY'
 openai.api_key = API_KEY
 
 # 입력 파일 경로
